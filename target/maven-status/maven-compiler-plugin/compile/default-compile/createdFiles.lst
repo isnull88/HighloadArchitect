@@ -1,0 +1,5 @@
+tr/otus/highLoadArch/controller/UserController.class
+tr/otus/highLoadArch/Main.class
+tr/otus/highLoadArch/dataLayer/UserRepo.class
+tr/otus/highLoadArch/dataLayer/UserRepo$UserMapper.class
+tr/otus/highLoadArch/model/User.class
